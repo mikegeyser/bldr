@@ -1,0 +1,4 @@
+C:\Users\Mike Geyser\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Private\Bldr-AddIn\1.0\\Bldr-AddIn.dll
+C:\Users\Mike Geyser\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Private\Bldr-AddIn\1.0\\Bldr-AddIn.pkgdef
+C:\Users\Mike Geyser\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Private\Bldr-AddIn\1.0\\extension.vsixmanifest
+C:\Users\Mike Geyser\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Private\Bldr-AddIn\1.0\\Bldr-AddIn.pdb

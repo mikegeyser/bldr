@@ -1,0 +1,15 @@
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\obj\Debug\Bldr-AddIn.csproj.ResolveComReference.cache
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\obj\Debug\VSPackage.resources
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\obj\Debug\Private.Bldr_AddIn.Resources.resources
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\obj\Debug\Bldr-AddIn.csproj.GenerateResource.Cache
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\obj\Debug\Bldr-AddIn.csprojResolveAssemblyReference.cache
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\bin\Debug\Bldr-AddIn.dll
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\bin\Debug\Bldr-AddIn.pdb
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\bin\Debug\Bldr-AddIn.pkgdef
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\bin\Debug\Bldr-AddIn.vsix
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\bin\Debug\extension.vsixmanifest
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\obj\Debug\Bldr-AddIn.dll
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\obj\Debug\Bldr-AddIn.pdb
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\obj\Debug\Bldr-AddIn.pkgdef
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\obj\Debug\Bldr-AddIn.latest.pkgdef
+C:\Src\Sandbox\VSNotifier\Bldr-AddIn\Bldr-AddIn\obj\Debug\extension.vsixmanifest
